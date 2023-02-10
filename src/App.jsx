@@ -5,6 +5,6 @@ import './style.css';
 export default () => {
   return (
     // <FormValidationComponent />
-    <ClassBaseFormValidation />
+    // <ClassBaseFormValidation />
   );
 };
